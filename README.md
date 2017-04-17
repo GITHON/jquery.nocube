@@ -20,4 +20,5 @@ nocube 取自nosql 表示not only cube 是一个可以将多个元素变为一�
 $('#**').nocube()
 ```
 
-### License MIT
+### License
+MIT
