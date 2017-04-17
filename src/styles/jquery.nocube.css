@@ -1,0 +1,21 @@
+.nocube-stage{
+    -webkit-user-select:none;
+    user-select:none;
+    width: 100%;
+    height: 100%;
+    margin: 0px auto;
+    position: relative;
+}
+.nocube-stage-perspective{
+    perspective: 1800px;
+}
+.nocube-wrapper{
+    height: 100%;
+    width: 100%;
+    transform-style: preserve-3d;
+}
+.nocube-wrapper>div{
+    height: 100%;
+    width: 100%;
+    position:absolute;
+}
